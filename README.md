@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a developer and a designer have knowledege of MERN stack, <br>Learning WEB3 and exploring stuff....also I have done engineering.
+<br>I am a developer and a designer have knowledege of MERN stack, <br>Learning WEB3 and exploring stuff....also I am an Engineer.
 
 
 ## 🌐 Socials:
